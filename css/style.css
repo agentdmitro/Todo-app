@@ -158,12 +158,12 @@ input::placeholder {
   justify-content: space-between;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
   .info small {
     display: none;
   }
 }
-@media (min-width: 768.98px) {
+@media (min-width: 768px) {
   .info b {
     display: none;
   }
